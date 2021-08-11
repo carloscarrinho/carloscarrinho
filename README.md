@@ -26,7 +26,7 @@
 ##
 
 ```
-Here you'll find studies repositories and maybe some open source contributions. Most of my real work 
+Here you'll find study repositories and maybe some open source contributions. Most of my real work 
 is hosted on Bitbucket for professional reasons (the companies I've been working for use it).
 ```
 
@@ -38,4 +38,11 @@ If you want to reach me, find on:
   <a href="https://instagram.com/carloscarrinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carrinhoedu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carloscarrinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+<div>
+  <a href="https://github.com/carloscarrinho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscarrinho&layout=compact&langs_count=7&theme=dark"/>
 </div>
