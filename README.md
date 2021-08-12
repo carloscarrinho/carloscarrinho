@@ -26,8 +26,7 @@
 ##
 
 ```
-Here you'll find study repositories and maybe some open source contributions. Most of my real work 
-is hosted on Bitbucket for professional reasons (the companies I've been working for use it).
+Backend development, software architecture and good code quality is here.
 ```
 
 Recently I've started to share some of my learnings and insights, please join the discussion on: <a href="https://dev.to/carloscarrinho" target="_blank">dev.to/carloscarrinho</a>
