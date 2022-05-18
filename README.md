@@ -17,7 +17,6 @@
   <img align="center" alt="Cadu-Postgres" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Cadu-Mysql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Cadu-PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Cadu-Magento" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
   <img align="center" alt="Cadu-Bitbucket" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img align="center" alt="Cadu-Ubuntu" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
@@ -28,8 +27,6 @@
 ```
 Backend development, software architecture and good code quality is here.
 ```
-
-Recently I've started to share some of my learnings and insights, please join the discussion on: <a href="https://dev.to/carloscarrinho" target="_blank">dev.to/carloscarrinho</a>
 
 If you want to reach me, find on:
 ##
